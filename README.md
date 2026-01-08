@@ -14,7 +14,7 @@ ComiReader is a web application that allows users to read comics, track reading 
 * [![MongoDB][MONGODB]][MONGODB-URL]
 * [![ShadcnUI][SHADCNUI]][SHADCNUI-URL]
 * [![License: MIT][MIT]][MIT-URL]
-
+* [![Cloudinary][CLOUDINARY]][CLOUDINARY-URL]
 
 # Getting started
 
@@ -40,3 +40,5 @@ ComiReader is a web application that allows users to read comics, track reading 
 [MIT-URL]: https://choosealicense.com/licenses/mit/
 [SHADCNUI]: https://img.shields.io/badge/SHADCNUI-007ACC?style=for-the-badge&logo=shadcn-ui&logoColor=white
 [SHADCNUI-URL]: https://ui.shadcn.com/
+[CLOUDINARY]: https://img.shields.io/badge/Cloudinary-007ACC?style=for-the-badge&logo=cloudinary&logoColor=white
+[CLOUDINARY-URL]: https://cloudinary.com/
